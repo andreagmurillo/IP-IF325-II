@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen - frmVentas.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen___frmVentas.frmVentas.resources
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen___frmVentas.Resources.resources
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen - frmVentas.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen - frmVentas.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen___frmVentas.frmCliente.resources
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\bin\Debug\Examen - frmVentas.exe.config
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\bin\Debug\Examen - frmVentas.exe
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\bin\Debug\Examen - frmVentas.pdb
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\bin\Debug\Examen - frmVentas.xml
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen - frmVentas.exe
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen - frmVentas.xml
+C:\Users\Usuario\source\repos\Examen - frmVentas\Examen - frmVentas\obj\Debug\Examen - frmVentas.pdb
